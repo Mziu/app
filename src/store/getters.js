@@ -16,5 +16,8 @@ export default {
   },
   getFoods: (state) => {
     return state.photo.foods
+  },
+  getNews: (state) => {
+    return state.photo.news
   }
 }

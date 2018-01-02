@@ -151,6 +151,33 @@ export default {
         text: '芝士',
         id: 1001
       }
+    ],
+    news: [
+      {
+        img: 'http://aimg5.dlszywz.com/wap/defineIcon/pic/101/201605_573a84301a02b.jpg?t=8710#383#200',
+        text: '大龙虾',
+        id: 1001
+      },
+      {
+        img: 'http://aimg5.dlszywz.com/wap/defineIcon/pic/101/201605_573a844f79d9b.jpg?t=1012#188#200',
+        text: '寿司',
+        id: 1001
+      },
+      {
+        img: 'http://aimg5.dlszywz.com/wap/defineIcon/pic/101/201605_573a8487bcfe5.jpg?t=8763#188#200',
+        text: '色拉',
+        id: 1001
+      },
+      {
+        img: 'http://aimg5.dlszywz.com/wap/defineIcon/pic/101/201605_573a84af69356.jpg?t=9284#188#200',
+        text: '意大利面',
+        id: 1001
+      },
+      {
+        img: 'http://aimg5.dlszywz.com/wap/defineIcon/pic/101/201605_573a849caa725.jpg?t=7464#188#200',
+        text: '芝士',
+        id: 1001
+      }
     ]
   }
 }
